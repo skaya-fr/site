@@ -1,0 +1,57 @@
+.hidden
+{
+    display: none;
+}
+
+#en-tete #img
+{
+    position: absolute;
+    width: 5%;
+    left: 2%;
+    top: 2.1%;
+}
+
+#en-tete #boutiques
+{
+    position: absolute;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 7.3%;
+    top: -1.25%;
+    font-size: 3vw;
+}
+
+
+#coins
+{
+    position: absolute;
+    top: 4%;
+    left: 30%;
+
+    box-shadow: none;
+    background: none;
+    border-radius: 0px;
+    border: 0;
+
+    font-size: 2vw;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#vehicules
+{
+    position: absolute;
+    top: 4%;
+    left: 40%;
+
+    box-shadow: none;
+    background: none;
+    border-radius: 0px;
+    border: 0;
+
+    font-size: 2vw;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
