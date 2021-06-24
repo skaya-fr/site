@@ -7,7 +7,7 @@ let index = 0;
 function animationTitle()
 {
     var interval = setInterval(() => {
-        if(index == skaya_title.length) {
+        if(current_title == skaya_title) {
             index = 0;
             
             clearInterval(interval);

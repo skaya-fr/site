@@ -1,4 +1,0 @@
-# Nmap 7.91 scan initiated Thu Jun 24 17:31:54 2021 as: nmap -O -oA nmap -Pn 146.88.234.239
-Host: 146.88.234.239 (worldls-305.fr.planethoster.net)	Status: Up
-Host: 146.88.234.239 (worldls-305.fr.planethoster.net)	Ports: 21/open/tcp//ftp///, 26/open/tcp//rsftp///, 80/open/tcp//http///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 8888/open/tcp//sun-answerbook///	Ignored State: filtered (989)	Seq Index: 17	IP ID Seq: Incremental
-# Nmap done at Thu Jun 24 17:32:02 2021 -- 1 IP address (1 host up) scanned in 8.79 seconds

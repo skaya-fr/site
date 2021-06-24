@@ -7,14 +7,13 @@
     height: 12.5%;
 }
 
-#down-bar
+#down-img
 {
     position: absolute;
     top: 90%;
     left: 0;
     width: 100%;
     height: 10%;
-    background-color: #4c175a;
 }
 
 
@@ -87,11 +86,12 @@
     font-size: 3vw;
 }
 
-#down-bar #copyright
+#copyright
 {
     position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
-    top: -10%;
-    left: 42.5%;
+    top: 89%;
+    left: 40%;
     font-size: 2.5vw;
 }
